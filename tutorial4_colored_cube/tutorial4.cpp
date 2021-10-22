@@ -34,7 +34,7 @@ int main() {
     GLFWwindow* window;
     int width = 1024;
     int height = 768;
-    window = glfwCreateWindow(width, height, "Tutorial 1", NULL, NULL);
+    window = glfwCreateWindow(width, height, "Tutorial 4", NULL, NULL);
     if (window == NULL) {
         fprintf(stderr, "Failed to open GLFW window");
         glfwTerminate();

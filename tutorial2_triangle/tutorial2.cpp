@@ -31,7 +31,7 @@ int main() {
 
     // Open a window and create OpenGL context
     GLFWwindow* window;
-    window = glfwCreateWindow(1024, 768, "Tutorial 1", NULL, NULL);
+    window = glfwCreateWindow(1024, 768, "Tutorial 2", NULL, NULL);
     if (window == NULL) {
         fprintf(stderr, "Failed to open GLFW window");
         glfwTerminate();
