@@ -1,3 +1,4 @@
 # open-gl-tutorial
 
-Based on [open-gl-tutorial](http://www.opengl-tutorial.org/)
+Graphics rendering with OpenGL based on [open-gl-tutorial](http://www.opengl-tutorial.org/)
+
